@@ -1,0 +1,3 @@
+[01:12:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@47b4589e[id=<null>,name=Nicky11121999,properties={},legacy=false] (/34.227.53.165:46582) lost connection: Disconnected
+[06:12:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e6e6761[id=<null>,name=P0rnHubGirl,properties={},legacy=false] (/52.91.41.118:57958) lost connection: Disconnected
+[06:12:48] [User Authenticator #13/INFO]: UUID of player P0rnHubGirl is 3638c62a-fd5b-4f58-bd42-d4a5a93198d4
